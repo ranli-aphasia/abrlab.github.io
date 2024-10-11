@@ -5,9 +5,9 @@
 
 The Aphasia and Brain Recovery (ABR) Lab is directed by Dr. Ran Li at Hong Kong Baptist University. A brain injury can tremendously impact someone's language abilities, causing aphasia. We take both behavioral and neuroimaging approaches to establish effective language therapies for these people, and to understand how the brain rewires as a result of language therapy.
 
-If you are would like to participating in our research, please directly [email](ranli92@hkbu.edu.hk) us.
+If you are would like to participating in our research, please directly [email](mailto:ranli92@hkbu.edu.hk) us.
 
-If you are interested in joining our team, please check the [Join Us]() page regularly for open position.
+If you are interested in joining our team, please check the Join Us page regularly for open position.
 
 {% include section.html %}
 

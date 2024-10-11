@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/abrlab.github.io/_config.yaml",
     "project_path": "_config.yaml",
     "type": "yaml",
-    "hash": "2568573963",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1728610823645.0,
@@ -12,8 +12,8 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "10,28",
-        "scrollLine": "7"
+        "cursorPosition": "21,30",
+        "scrollLine": "17"
     },
     "folds": "",
     "lastKnownWriteTime": 1728611599,
