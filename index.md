@@ -62,6 +62,7 @@ Currently, we use behavioral measurements and fMRI to understand patterns of bil
 %}
 
 {% capture text %}
+Contact me if you want to join us!
 
 {%
   include button.html
